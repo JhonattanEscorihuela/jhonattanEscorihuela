@@ -27,7 +27,7 @@ Hi! I'm Jhonattan Escorihuela, Telecommunications Engineer passionate about lead
 - 🔭 My last job was on [Github Profilinator](https://github.com/puravidaviajespremium)  
   
 
-- 🌱 I’m currently learning Hyperledger, Kubernetes, TypeScript and Kotlin  
+- 🌱 I’m currently learning AWS, MongoDB, TypeScript and Kotlin  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
