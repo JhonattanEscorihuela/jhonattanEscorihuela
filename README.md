@@ -28,7 +28,7 @@ My experience and skills cover a spectrum of technologies such as MySQL, SQL, Re
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 My last job was on [Github Profilinator](https://github.com/puravidaviajespremium)  
+- 🔭 My last job was on [Github Profilinator](https://github.com/JhonattanEscorihuela/PuraVidaViajesPremium)  
   
 
 - 🌱 I’m currently learning AWS, MongoDB, TypeScript and Kotlin  
