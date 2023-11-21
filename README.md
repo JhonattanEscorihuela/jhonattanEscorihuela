@@ -15,11 +15,11 @@
 
 
 ### Glad to see you here!  
-Hi, I'm Jhonattan Escorihuela, a Telecommunications Engineer driven by a passion for spearheading and enhancing technical projects in the telecommunications industry. My focus lies in continuous improvement, establishing robust customer connections, and efficient incident resolution. With a recent graduation in Full Stack Development, I've acquired expertise in MySQL, SQL, React, Redux, Node.js, and Javascript, empowering me to handle end-to-end web development projects. My technical background equips me to lead telecommunication projects and devise effective solutions.
+Hi, I'm Jhonattan Escorihuela, a Telecommunications Engineer driven by a passion for spearheading and enhancing technical projects in the telecommunications industry. My focus lies in continuous improvement, establishing robust customer connections, and efficient incident resolution. With a recent graduation in Full Stack Development, I've acquired expertise in MySQL, SQL, React, Redux, Node.js, and Javascript, empowering me to handle end-to-end web development projects. My technical background equips me to lead telecommunication projects and devise effective solutions.🌐
 
-My experience and skills cover a spectrum of technologies such as MySQL, SQL, React, Redux, Node.js, and Javascript. This enables me to navigate and excel in various facets of web development, ensuring comprehensive and impactful solutions. I've honed my abilities through practical application in multiple projects, ensuring proficiency in both technical project management and Full Stack Development.
+My experience and skills cover a spectrum of technologies such as MySQL, SQL, React, Redux, Node.js, and Javascript. This enables me to navigate and excel in various facets of web development, ensuring comprehensive and impactful solutions. I've honed my abilities through practical application in multiple projects, ensuring proficiency in both technical project management and Full Stack Development.💻
 
-If you are looking for a dedicated and results-oriented professional with experience in technical project management and Full Stack development, I would love to contribute to your team! Let's get in touch by email at jhonattan1410@gmail.com here you can see my LinkedIn profile at www.linkedin.com/in/jhonattanescorihuela. I'm looking forward to exploring opportunities for collaboration and growth. or visit. 
+🔍If you are looking for a dedicated and results-oriented professional with experience in technical project management and Full Stack development, I would love to contribute to your team! Let's get in touch by email at jhonattan1410@gmail.com here you can see my Git-Hub profile: https://github.com/JhonattanEscorihuela. I'm looking forward to exploring opportunities for collaboration and growth.📈
   
 
 <br/>  
