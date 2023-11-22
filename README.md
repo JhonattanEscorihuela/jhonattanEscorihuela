@@ -19,7 +19,7 @@ Hi, I'm Jhonattan Escorihuela, a Telecommunications Engineer driven by a passion
 
 My experience and skills cover a spectrum of technologies such as MySQL, SQL, React, Redux, Node.js, and Javascript. This enables me to navigate and excel in various facets of web development, ensuring comprehensive and impactful solutions. I've honed my abilities through practical application in multiple projects, ensuring proficiency in both technical project management and Full Stack Development.💻
 
-🔍If you are looking for a dedicated and results-oriented professional with experience in technical project management and Full Stack development, I would love to contribute to your team! Let's get in touch by email at jhonattan1410@gmail.com here you can see my Git-Hub profile: https://github.com/JhonattanEscorihuela. I'm looking forward to exploring opportunities for collaboration and growth.📈
+🔍If you are looking for a dedicated and results-oriented professional with experience in technical project management and Full Stack development, I would love to contribute to your team! Let's get in touch by email at jhonattan1410@gmail.com here you can see my linkedIn profile: https://www.linkedin.com/in/jhonattanescorihuela/. I'm looking forward to exploring opportunities for collaboration and growth.📈
   
 
 <br/>  
